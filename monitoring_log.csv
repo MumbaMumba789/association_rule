@@ -1,0 +1,3 @@
+timestamp,version,x,y,cluster,is_noise,latency_ms,status,error
+2026-10-17T14:27:08.856610+00:00,v1,2.0,2.0,1,False,46.32,success,
+2026-10-17T14:27:10.949530+00:00,v1,2.0,2.0,1,False,0.56,success,
