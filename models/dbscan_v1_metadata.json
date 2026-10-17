@@ -1,0 +1,13 @@
+{
+    "model_name": "dbscan",
+    "version": "v1",
+    "algorithm": "DBSCAN",
+    "parameters": {
+        "eps": 0.3,
+        "min_samples": 5
+    },
+    "n_clusters": 3,
+    "n_noise_points": 16,
+    "silhouette_score": 0.894,
+    "scaler": "StandardScaler"
+}
