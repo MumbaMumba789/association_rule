@@ -1,0 +1,2 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,representativity,leverage,conviction,zhangs_metric,jaccard,certainty,kulczynski
+frozenset({'eggs'}),frozenset({'milk'}),0.5333333333333333,0.7333333333333333,0.4,0.75,1.0227272727272727,1.0,0.008888888888888946,1.0666666666666669,0.04761904761904792,0.4615384615384616,0.06250000000000018,0.6477272727272727
